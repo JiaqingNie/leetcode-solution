@@ -1,7 +1,4 @@
-package data_structure;
-
-import java.util.ArrayList;
-import java.util.List;
+package DataStructureUtils;
 
 public class ListNode {
       public int val;

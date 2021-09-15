@@ -1,6 +1,6 @@
 package Q23MergeKSortedLists;
 
-import data_structure.ListNode;
+import DataStructureUtils.ListNode;
 
 public class Solution {
     public ListNode mergeKLists(ListNode[] lists) {

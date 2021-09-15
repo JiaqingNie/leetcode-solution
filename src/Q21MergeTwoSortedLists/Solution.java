@@ -1,6 +1,6 @@
 package Q21MergeTwoSortedLists;
 
-import data_structure.ListNode;
+import DataStructureUtils.ListNode;
 
 public class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
